@@ -82,10 +82,10 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Andriyas05&show_icons=true&theme=dark&locale=en" alt="Andriyas Saini" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andriyas05&show_icons=true&theme=dark&locale=en&layout=compact" alt="Andriyas Saini" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=himanshu-bara&show_icons=true&theme=dark&locale=en" alt="Himanshu Barapatre" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-bara&show_icons=true&theme=dark&locale=en&layout=compact" alt="Himanshu Barapatre" /></td>
   </tr>
   <tr>
-    <td colspan="2"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andriyas05&show_icons=true&theme=dark" alt="andriyas05" /></p></td>
+    <td colspan="2"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-bara&show_icons=true&theme=dark" alt="Himanshu Barapatre" /></p></td>
   </tr>
 </table>
