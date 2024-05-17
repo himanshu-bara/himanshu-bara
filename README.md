@@ -3,11 +3,9 @@
 
 - 🌱 Tilting every angle perspective to generate a visually appealing interface.🚀
 
-- 💬 Ask me about *Web Design, UI&UX, Web Development, MySQL*
+- 💬 Ask me about *Web Design, UI&UX, Web Development*
 
 - 👨‍💻 Check out my personal portfolio : *<a href="https://himanshu-barapatre.netlify.app/" target="_blank">Portfolio</a>*
-
-- 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -72,8 +70,8 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=flutter-whatsapp-clone-master)](https://github.com/Andriyas05/flutter-whatsapp-clone-master)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=krishicare)](https://github.com/Andriyas05/krishicare)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshu-bara&repo=GraphicsHub)](https://github.com/himanshu-bara/GraphicsHub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshu-bara&repo=Javascript-Calculator)](https://github.com/himanshu-bara/Javascript-Calculator)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=inotebook)](https://github.com/Andriyas05/inotebook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=bmi_calculator_app-master)](https://github.com/Andriyas05/bmi_calculator_app-master)
