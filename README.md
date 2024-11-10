@@ -6,6 +6,8 @@
 - 💬 Ask me about *Web Design, UI&UX, Web Development*
 
 - 👨‍💻 Check out my personal portfolio : *<a href="https://himanshu-barapatre.netlify.app/" target="_blank">Portfolio</a>*
+  
+- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=himanshu-bara.visitor-badge&left_color=red&right_color=green&left_text=Profile%20Visitors)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
